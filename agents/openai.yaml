@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 热门项目周刊"
+  short_description: "挑选五个热门开源项目，写自然短文并配图排成飞书图文稿"
+  default_prompt: "用 $github-weekly 制作本周 GitHub 热门项目推荐，选 5 个项目，核实资料，生成配图并排成飞书图文稿。"

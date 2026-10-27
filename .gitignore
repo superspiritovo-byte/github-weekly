@@ -1,0 +1,26 @@
+# Generated articles, research and local previews
+outputs/
+work/
+dist/
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Credentials, local configuration and authorization artifacts
+.env
+.env.*
+!.env.example
+.lark-cli/
+.feishu/
+credentials*.json
+*secret*.json
+*token*.json
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+.DS_Store
+Thumbs.db
